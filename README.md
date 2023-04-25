@@ -1,9 +1,11 @@
-### Hi! I'm Katiuce Barbosa 😀
+### Oi! Eu sou a Katiuce Barbosa 😀
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katiuce-barbosa-a8b4619b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/katiucepb/?next=%2F)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatiuceBarbosa&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatiuceBarbosa)](https://github.com/KatiuceBarbosa/github-readme-stats)
 
 ## Tecnologias que eu uso:
 
@@ -16,5 +18,5 @@
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     </div><br/>
 
-    I'm a technology student.
+    Eu sou estudando de ADS - Análise e Desenvolvimento de Sistemas
     E-mail: katiucepb@gmail.com

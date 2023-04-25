@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatiuceBarbosa&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatiuceBarbosa)](https://github.com/KatiuceBarbosa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatiuceBarbosa&layout=compact)](https://github.com/KatiuceBarbosa/github-readme-stats)
 
 ## Tecnologias que eu uso:
 
